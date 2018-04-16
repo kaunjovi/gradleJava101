@@ -1,4 +1,13 @@
 apply plugin: 'java'
 apply plugin: 'application'
 
-mainClassName = 'fun.n.games.HelloWorld'
+mainClassName = 'fun.n.games.hackerrank.HackerRank005'
+
+repositories {
+    mavenCentral()
+}
+
+
+dependencies {
+	testCompile "junit:junit:4.11"
+}
