@@ -1,7 +1,7 @@
 apply plugin: 'java'
 apply plugin: 'application'
 
-mainClassName = 'fun.n.games.hackerrank.HackerRank005'
+mainClassName = 'fun.n.games.hackerrank.Solution'
 
 repositories {
     mavenCentral()
