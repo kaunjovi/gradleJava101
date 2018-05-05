@@ -6,8 +6,6 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.TreeMap;
 
-import org.databene.contiperf.junit.ContiPerfRule;
-import org.junit.Rule;
 import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -15,8 +13,8 @@ import org.slf4j.LoggerFactory;
 public class WriteSomeTest {
 	private final Logger logger = LoggerFactory.getLogger(this.getClass());
 
-	@Rule
-	public ContiPerfRule i = new ContiPerfRule();
+	// @Rule
+	// public ContiPerfRule i = new ContiPerfRule();
 
 	// @Ignore
 	@Test
