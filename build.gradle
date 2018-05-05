@@ -10,4 +10,8 @@ repositories {
 
 dependencies {
 	testCompile "junit:junit:4.11"
+	testCompile group: 'org.databene', name: 'contiperf', version: '2.3.4'
+	
+	compile group: 'org.slf4j', name:'slf4j-api', version: '1.7.2'
+    compile group: 'ch.qos.logback', name:'logback-classic', version: '1.0.9'
 }
