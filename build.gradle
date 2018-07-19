@@ -9,7 +9,8 @@ repositories {
 
 
 dependencies {
-	testCompile "junit:junit:4.11"
+	//testCompile "junit:junit:4.11"
+	compile "junit:junit:4.11"
 	testCompile group: 'org.databene', name: 'contiperf', version: '2.3.4'
 	
 	compile group: 'org.slf4j', name:'slf4j-api', version: '1.7.2'

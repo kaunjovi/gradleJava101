@@ -18,5 +18,3 @@ public class HackerRank010 {
 
 	}
 }
-
-// solved at one attempt. sad that i have to try.
