@@ -1,4 +1,4 @@
-package fun.n.games.portfolio;
+package ku.ber.portfolio;
 
 import java.math.BigDecimal;
 

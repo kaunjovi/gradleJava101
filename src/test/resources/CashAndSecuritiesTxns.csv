@@ -1,0 +1,6 @@
+# Create a portfolio of cash and securities. 
+
+DEPOSIT, 100.00
+BUY, NIFTY50, 10, 10 
+#TESTFORCASH, 0
+#TESTFORHOLDING, { "name":"NIFTY50", "quantity":10 }
